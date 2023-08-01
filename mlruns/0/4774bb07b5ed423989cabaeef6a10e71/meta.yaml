@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/surya/ETE-ML-flow-prediction-project/mlruns/0/4774bb07b5ed423989cabaeef6a10e71/artifacts
+end_time: 1690860471953
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4774bb07b5ed423989cabaeef6a10e71
+run_name: shivering-owl-517
+run_uuid: 4774bb07b5ed423989cabaeef6a10e71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690860467383
+status: 3
+tags: []
+user_id: surya
