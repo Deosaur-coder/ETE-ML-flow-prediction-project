@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/surya/ETE-ML-flow-prediction-project/mlruns/0/f64b408f34b245898e0a0a568c856bb1/artifacts
+end_time: 1690900411223
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f64b408f34b245898e0a0a568c856bb1
+run_name: capable-ape-19
+run_uuid: f64b408f34b245898e0a0a568c856bb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690900406725
+status: 3
+tags: []
+user_id: surya

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/surya/ETE-ML-flow-prediction-project/mlruns/0/f9f16ea8b4034515b20e018da5f6bd1e/artifacts
+end_time: 1690900935389
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f9f16ea8b4034515b20e018da5f6bd1e
+run_name: big-wasp-842
+run_uuid: f9f16ea8b4034515b20e018da5f6bd1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690900928099
+status: 3
+tags: []
+user_id: surya

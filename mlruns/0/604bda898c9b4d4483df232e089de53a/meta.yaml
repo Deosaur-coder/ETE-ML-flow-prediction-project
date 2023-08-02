@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/surya/ETE-ML-flow-prediction-project/mlruns/0/604bda898c9b4d4483df232e089de53a/artifacts
+end_time: 1690900260423
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 604bda898c9b4d4483df232e089de53a
+run_name: merciful-hawk-877
+run_uuid: 604bda898c9b4d4483df232e089de53a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690900250924
+status: 3
+tags: []
+user_id: surya
